@@ -1,5 +1,5 @@
                          EARTHQUAKE PREDICTION MODEL USING PYTHON
-                                          PHASE 1- DOCUMENT SUBMISSION
+                                 DOCUMENT SUBMISSION
 
 Project: Earthquake Prediction Model using Python
 
